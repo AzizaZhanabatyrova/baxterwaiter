@@ -1,0 +1,7 @@
+<launch>
+
+    <node pkg="baxterwaiter" type="endor_server" name="endor_server" output="screen"/>
+	<node pkg="baxterwaiter" type="baxter_move" name="baxter_move" output="screen"/>
+	<node pkg="baxterwaiter" type="main_node" name="main_node" output="screen"/>
+
+</launch>

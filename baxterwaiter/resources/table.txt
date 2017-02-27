@@ -1,0 +1,42 @@
+table_assembly 11 CGPS
+CGPS 0
+GPS 4
+CPS 0
+CGP 4
+CP 0
+GP 3
+PS 0
+C 2
+G 3
+P 1
+S 2
+2 CGPS 1
+S
+CGP
+2 CGPS 1
+G
+CPS
+2 CGPS 1
+C
+GPS
+2 CGP 1
+C
+GP
+2 CPS 1
+C
+PS
+2 CPS 1
+S
+CP
+2 GPS 1
+G
+PS
+2 CP 1
+C
+P
+2 GP 2
+G
+P
+2 PS 1
+S
+P
