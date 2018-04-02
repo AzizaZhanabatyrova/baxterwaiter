@@ -3,6 +3,9 @@ Baxterwaiter
 
 Video: https://www.youtube.com/watch?v=F03M4cT2oAY
 
+<a href="https://www.youtube.com/watch?v=F03M4cT2oAY" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 The baxterwaiter is a ROS software to be used with a Baxter robot with the goal of setting up a table with four objects. It makes use of the ENDOR library written by Barbara Bruno (https://github.com/EmaroLab/endor) 
 
 Requirements:
